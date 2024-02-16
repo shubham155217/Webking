@@ -1,3 +1,5 @@
-This is a simple frontend website 
-My website is not responsive so view it on a laptop.
+This is a simple frontend website <br>
+
+My website is not responsive so view it on a laptop.<br>
+
 WEBSITE LINK=https://webkingtechnologies.netlify.app
